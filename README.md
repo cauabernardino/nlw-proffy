@@ -1,33 +1,25 @@
-# Proffy Website
-
-Projeto feito durante a [Next Level Week #2](https://nextlevelweek.com/) - Trilha Discovery da Rocketseat
-
-Projeto de aplicação criado durante o bootcamp da [@Rocketseat](https://github.com/Rocketseat)
-
+# Proffy - Website
 
 --- 
 
-## 📋 Índice
-- [Proffy Website](#proffy-website)
-  - [📋 Índice](#-índice)
-  - [📖 Sobre](#-sobre)
-  - [💻 Tecnologias utilizadas:](#-tecnologias-utilizadas)
-<!-- - [Como executar o projeto](#-Como-executar-o-projeto) -->
+## 📋 Index
+
+- [Proffy - Website](#proffy---website)
+  - [📋 Index](#-index)
+  - [📖 About](#-about)
+  - [💻 Technologies used:](#-technologies-used)
+  - [⚙️ Executing the project](#️-executing-the-project)
 
 ---
 
-## 📖 Sobre
+## 📖 About
 
-Projeto feito durante o bootcamp [Next Level Week #2 Trilha Discovery ](https://nextlevelweek.com/) da  [@Rocketseat](https://github.com/Rocketseat)
+Project made during the [Next Level Week #2](https://nextlevelweek.com/) bootcamp - Discovery Trail - by[@Rocketseat](https://github.com/Rocketseat).
 
-A proposta do projeto é uma aplicação que possa ligar pessoas que desejam aprender alguma matéria, com professores que se cadastraram na plataforma.
+The main goal is to create an application that can connect people who are looking for teachers of a specific subject with people who are offering teaching services.
 
 --- 
-## 💻 Tecnologias utilizadas:
-
-Tecnologias utilizadas
-
-O projeto está desenvolvido utilizando as seguintes tecnologias:
+## 💻 Technologies used:
 
 - HTML
 - CSS
@@ -35,3 +27,20 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - Node.js 
 - Nunjucks 
 - SQLite 
+
+---
+## ⚙️ Executing the project
+
+```bash
+# Clone this repository with
+git clone https://github.com/cauabernardino/nlw-proffy
+
+# Enter the folder
+cd nlw-proffy
+
+# Download dependencies
+npm i
+
+# Execute server
+npm run dev
+```
