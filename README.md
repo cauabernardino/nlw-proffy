@@ -2,12 +2,10 @@
 
 ## 📋 Index
 
-- [Proffy - Website](#proffy---website)
-  - [📋 Index](#-index)
-  - [📖 About](#-about)
-  - [💻 Technologies used:](#-technologies-used)
-  - [⚙️ Executing the project](#️-executing-the-project)
-
+- [📋 Index](#-index)
+- [📖 About](#-about)
+- [💻 Technologies used:](#-technologies-used)
+- [⚙️ Executing the project](#️-executing-the-project)
 
 ## 📖 About
 
