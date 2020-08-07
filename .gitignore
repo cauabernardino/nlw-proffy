@@ -1,0 +1,4 @@
+.vscode
+node_modules
+src/database/*.sqlite
+src/database/fake_data.js
