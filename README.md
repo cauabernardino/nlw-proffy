@@ -1,7 +1,5 @@
 # Proffy - Website
 
---- 
-
 ## 📋 Index
 
 - [Proffy - Website](#proffy---website)
@@ -10,7 +8,6 @@
   - [💻 Technologies used:](#-technologies-used)
   - [⚙️ Executing the project](#️-executing-the-project)
 
----
 
 ## 📖 About
 
@@ -18,7 +15,7 @@ Project made during the [Next Level Week #2](https://nextlevelweek.com/) bootcam
 
 The main goal is to create an application that can connect people who are looking for teachers of a specific subject with people who are offering teaching services.
 
---- 
+
 ## 💻 Technologies used:
 
 - HTML
@@ -28,7 +25,6 @@ The main goal is to create an application that can connect people who are lookin
 - Nunjucks 
 - SQLite 
 
----
 ## ⚙️ Executing the project
 
 ```bash
